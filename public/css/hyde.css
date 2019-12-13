@@ -32,7 +32,7 @@
  */
 
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "Muli", sans-serif;
 }
 @media (min-width: 48em) {
   html {
@@ -56,8 +56,8 @@ html {
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
-  color: rgba(255,255,255,.5);
-  background-color: #202020;
+  color: #bbb;
+  background-color: #ac4142;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -65,23 +65,44 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 18rem;
+    width: 15rem;
     text-align: left;
-  }
+  } 
 }
 
 /* Sidebar links */
 .sidebar a {
   color: #fff;
+  font-family: "Courier New", Courier, monospace;
 }
+@media (min-width: 48em) {
+ .sidebar-about a {
+	color: #fff;
+	font-family: "Courier New", Courier, monospace;
+	margin-left: 100px;
+  } 
+}
+
 
 /* About section */
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
-  font-size: 3.25rem;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 2.5rem;
+  
 }
+/* for larger than 48em screen sizes */
+@media (min-width: 48em) {
+ .sidebar-about h1 {
+	color: #fff;
+	margin-top: 0;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 2.5rem;
+	transform: rotate(-90deg);
+  } 
+}
+
 
 /* Sidebar nav */
 .sidebar-nav {
