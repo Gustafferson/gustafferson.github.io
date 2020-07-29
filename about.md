@@ -29,7 +29,7 @@ title: About Me
 
 ### Skills/Activities
 * **March 2020** - Began self-teaching python and machine learning fundamentals
-* **March 2020** - [Began training for first Olympic length Triathlon for Q3 2020](gustafferson.xyz/Strava.html)
+* **March 2020** - [Began training for first Olympic length Triathlon for Q3 2020](pettey.co.uk/Strava.html)
 * **May 2019** -  [Won Tier 4 England Hockey National Championship with University of Nottingham Hockey Club](https://www.instagram.com/p/BxDYFt-BeeN/?utm_source=ig_web_copy_link)
 * **August 2017** - Elected Treasurer of University of Nottingham Hockey Club
 
@@ -77,6 +77,6 @@ It is my hope that these skills combined with my academic background will allow 
   - Using my background in data analysis in MATLAB, I am teaching myself the lanaguage and frameworks of Python and its machine learning libraries. 
   - These skills will benefit my academic work and set up my ambitions to transition into the professional world on completion of postgraduate study.
 
-* Training for an Olympic length Triathlon
+* Training for an Ironman Triathlon
   - Corona has taken away the end date I had in mind...
-  - Following my retirement from hockey (it's a young man's game...) I have decided to put myself through hell and complete an Olympic length Triathlon before the end of 2020. Persistance and patience is the key...
+  - Following my retirement from hockey (it's a young man's game...) I have decided to put myself through hell and complete an [Ironman length Triathlon](https://www.outlawtriathlon.com/) before the end of 2021. Persistance and patience is the key...
