@@ -26,10 +26,6 @@ url: https://pettey.co.uk # the base hostname & protocol for your site, e.g. htt
 baseurl: / # the subpath of your site, e.g. /blog
 github_username:  gustafferson
 
-# Permalinks
-permalink:        pretty
-relative_permalinks: true
-
 # Build settings
 remote_theme: fongandrew/hydeout
 plugins:
