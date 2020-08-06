@@ -2,7 +2,7 @@
 layout: post
 title:  "An Antidote to Imposter Syndrome: Finding your Niche"
 date:   2020-07-29 10:58:19 +0000
-categories: ImposterSyndrome career PhD niche
+tags: [ImposterSyndrome, career, PhD, niche]
 ---
 It's approaching a year since I started my PhD back in [October 2019][October 2019], and having undergone my first year review, its given me an opportunity to reflect on where I started out and where I am now.
 In a macro sense this year has flown by, with changes aplenty ensuring that weeks have collapsed onto themselves as we all try to adapt to a new lifestyle. 

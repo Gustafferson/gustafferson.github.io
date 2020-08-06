@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome"
 date:   2020-06-03 10:58:19 +0000
-categories: gustafferson life corona
+tags: [Pettey.co.uk, life, corona]
 ---
 What with [THE EVENT][THE-EVENT] I thought it's about time I flex my literary muscles and upload some posts to the blog I inexplicably bought a domain for.
 
