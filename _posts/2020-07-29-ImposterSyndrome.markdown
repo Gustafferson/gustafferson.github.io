@@ -10,7 +10,7 @@ Whereas upon reflection in a micro sense, October 2019 seems like an absolute ag
 One major factor in this is imposter syndrome. 
 
 At some point, I am sure everyone under the sun has experienced a feeling of being way out of their depth and not able to surmount the tasks in front of them. 
-A quick search of [the PhD subreddit](reddit.com/r/phd) reveals countless references to this phenomenon among postgrad students, which I initially took as warm relief that I was in good company when beginning my postgrad studies.
+A quick search of [the PhD subreddit](https://reddit.com/r/phd) reveals countless references to this phenomenon among postgrad students, which I initially took as warm relief that I was in good company when beginning my postgrad studies.
 
 ![The depths of despair on the PhD subreddit](/images/ImposterSyndrome/ImposterSyndromeRedditSearch.png "The depths of dispare on the PhD subreddit")
 
@@ -57,4 +57,4 @@ Before you know it, your proficiency will have gone through the roof, providing 
 > Be confident in that one initial niche you found, expand it gradually and become that intimidating figure your past self would have felt and imposter to.
 
 [crossrail]: https://www.standard.co.uk/news/transport/crossrail-station-costs-soar-by-six-times-as-contract-hitches-hit-1bn-a4133656.html
-[October 2019]: pettey.co.uk/About.html
+[October 2019]: https://pettey.co.uk/About.html
