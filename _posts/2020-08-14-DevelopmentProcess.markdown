@@ -64,7 +64,7 @@ Géotechnique, 67(4), 301-312.
 DOI: 10.1680/jgeot.15.P.226
 
 <a id="2">[3]</a> 
-Cavarretta et al. (2016). 
+Cavarretta et al. (2010). 
 The influence of particle characteristics on the behaviour of coarse grained soils
 Géotechnique, 60(6), 413-423.
 DOI: 10.1680/geot.2010.60.6.413
