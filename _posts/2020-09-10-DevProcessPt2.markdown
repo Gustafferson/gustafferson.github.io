@@ -73,8 +73,10 @@ As mentioned in the previous instalment, I planned to use 3D printing for this p
 As a consequence of this, and due to my inexperience with the technology, each of the pieces is rather bulky and would be subject to long manufacture times. 
 
 Shown below is the final prototype I designed to fit the geometry of the stepper motor, gearbox and GigE camera.
+
 ![Prototype of apparatus including motor, gearbox and camera .stl files](\images\DevProcessPart2\ParticleScanningInventorProject.png)
 *Prototype of apparatus including motor, gearbox and camera .stl files* 
+
 Overall, its a package that certainly achieves its objectives, and isn't all that different from the one used by Nadimi and Fonseca [[2]](#2), though will certainly take a good amount of time to produce and assemble. 
 Now all that remains seen as I have access to the lab again is to manufacture the parts and begin to experiment with controlling the motor and camera in tandem. 
 
@@ -98,13 +100,15 @@ This provided an opportunity.
 A simple M5 threaded insert to the bushing allowed for the M5 bolt the particles are glued to, to be attached to the motor assembly.
 The thread has the benefit of allowing adjustment of its position relative to the perpendicularly mounted camera. 
 You can see the previously mentioned bracket and bushing with the M5 insert in the image below
+
 ![Bracket, bushing and M5 insert of the motor and gearbox assembly](\images\DevProcessPart2\BracketBushingM5.jpg)
-*[Bracket, bushing and M5 insert of the motor and gearbox assembly* 
+*Bracket, bushing and M5 insert of the motor and gearbox assembly* 
 
 So, if I could design a metal plate that allows for control of the focus position of the lens, the design constraints from earlier would be satisfied in a much simpler package than the prototype design. 
 This was achieved using some CAD, [cardboard aided design](https://youtu.be/9VKegYsSRG0?t=113). 
 After drawing out a scaled template of what will be 3mm mild steel plate, complete with slotted 3mm holes for fixing the position of the Genie Nano camera, Steve was able to whip up the part in no time.
 You can see the final completed assembly in the image below
+
 ![Completed particle imaging assembly](\images\DevProcessPart2\CompletedAssembly.jpg)
 *[Completed particle imaging assembly* 
 
